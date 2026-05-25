@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'Studio Chick',
   domain: 'www.studiochick.net',
-  author: 'Ppiyak Kim',
+  author: 'Ppiyak Kim | Powered by <a href="https://transitivebullsh.it">Next.js Notion Starter Kit</a>',
 
   // open graph metadata (optional)
   description: 'Independent equity research',
