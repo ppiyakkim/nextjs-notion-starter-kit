@@ -30,7 +30,14 @@ export function FooterImpl() {
   return (
     <footer className={styles.footer}>
       <div className={styles.copyright}>
-        Copyright {currentYear} {config.author}
+        Copyright {currentYear} {config.author} | Powered by{' '}
+        <a
+          href="https://transitivebullsh.it"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Next.js Notion Starter Kit
+        </a>
       </div>
 
       <div className={styles.settings}>
