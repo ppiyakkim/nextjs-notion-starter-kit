@@ -423,7 +423,3 @@ body:not(.dark-mode) .notion-callout,
 body:not(.dark-mode) .notion-collection-card {
   background: #FDFCF8;
 }
-
-.notion:not(.dark-mode) {
-  --bg-color: #FDFCF8;
-}
