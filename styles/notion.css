@@ -420,3 +420,9 @@ body,
 .notion-sidebar-collapsed {
   background: #F3F0E9 !important;
 }
+
+.notion-header,
+.notion-header .nav,
+header {
+  background: #F3F0E9 !important;
+}
