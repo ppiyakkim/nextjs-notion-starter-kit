@@ -364,7 +364,8 @@
 }
 
 .notion-header {
-  background: hsla(0, 0%, 100%, 0.8);
+/*  background: hsla(0, 0%, 100%, 0.8); */
+  background: rgba(253, 252, 248, 0.8);
   backdrop-filter: saturate(180%) blur(16px);
 }
 
@@ -408,4 +409,17 @@
 
 .notion-equation.notion-equation-block{
   align-items: center;
+}
+
+body:not(.dark-mode) {
+  background: #FDFCF8;
+}
+
+body:not(.dark-mode) .notion-frame,
+body:not(.dark-mode) .notion-page,
+body:not(.dark-mode) .notion-page-scroller,
+body:not(.dark-mode) .notion-table_of_contents,
+body:not(.dark-mode) .notion-callout,
+body:not(.dark-mode) .notion-collection-card {
+  background: #FDFCF8;
 }
