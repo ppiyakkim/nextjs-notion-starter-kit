@@ -409,18 +409,3 @@
 .notion-equation.notion-equation-block{
   align-items: center;
 }
-
-body:not(.dark),
-body:not(.dark) .notion,
-body:not(.dark) .notion-app,
-body:not(.dark) .notion-frame,
-body:not(.dark) .notion-page,
-body:not(.dark) .notion-page-scroller,
-body:not(.dark) .notion-header,
-body:not(.dark) .notion-header .nav,
-body:not(.dark) header,
-body:not(.dark) .notion-table_of_contents,
-body:not(.dark) .notion-callout,
-body:not(.dark) .notion-collection-card {
-  background: #F3F0E9;
-}
