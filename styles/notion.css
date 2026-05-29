@@ -420,6 +420,11 @@ body:not(.dark-mode) .notion-page,
 body:not(.dark-mode) .notion-page-scroller,
 body:not(.dark-mode) .notion-table_of_contents,
 body:not(.dark-mode) .notion-callout,
-body:not(.dark-mode) .notion-collection-card {
+body:not(.dark-mode) .notion-collection-card
+body:not(.dark-mode) .notion-aside-table-of-contents {
+  background: #FDFCF8;
+}
+
+ {
   background: #FDFCF8;
 }
