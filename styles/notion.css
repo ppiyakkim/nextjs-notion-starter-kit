@@ -409,3 +409,11 @@
 .notion-equation.notion-equation-block{
   align-items: center;
 }
+
+.notion-page {
+  background: #F3F0E9;
+}
+
+body {
+  background: #F3F0E9;
+}
