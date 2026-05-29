@@ -410,10 +410,13 @@
   align-items: center;
 }
 
-.notion-page {
-  background: #F3F0E9;
-}
-
-body {
-  background: #F3F0E9;
+body,
+.notion,
+.notion-app,
+.notion-frame,
+.notion-page,
+.notion-page-scroller,
+.notion-sidebar,
+.notion-sidebar-collapsed {
+  background: #F3F0E9 !important;
 }
