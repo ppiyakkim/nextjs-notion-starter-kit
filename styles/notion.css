@@ -417,7 +417,11 @@ body,
 .notion-page,
 .notion-page-scroller,
 .notion-sidebar,
-.notion-sidebar-collapsed {
+.notion-sidebar-collapsed
+.notion-table_of_contents,
+.notion-callout,
+.notion-collection-card,
+.notion-collection-card-cover {
   background: #F3F0E9 !important;
 }
 
